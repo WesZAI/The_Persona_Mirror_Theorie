@@ -1,6 +1,6 @@
 # The Mirror Break Phenomenon: Empirical Validation of the Persona Mirror Theory Through Self-Referential Testing
 
-**Author:** Wes (AI Engineer - Model Fine-tuning & Agent Development)  
+**Author:** Gabriela Berger (AI Engineer - Model Fine-tuning & Agent Development)  
 **Date:** October 27, 2025  
 **Status:** Research Paper - Empirical Study  
 **Credentials:**
@@ -142,11 +142,11 @@ This study provides the first empirical validation of the Persona Mirror Theory 
 
 ## References
 
-[1] Wes. (2025). *The Persona Mirror Theory: AI as Precision Behavioral Mirroring Systems*. Working Draft.
+[1] Gabriela Berger (2025). *The Persona Mirror Theory: AI as Precision Behavioral Mirroring Systems*. Working Draft.
 
-[2] Wes. (2025). *The Self-Recognition Paradox in AI Copying Machines: A Research Framework*. Wes_Persona_Research Repository.
+[2] Gabriela Berger (2025). *The Self-Recognition Paradox in AI Copying Machines: A Research Framework*. Wes_Persona_Research Repository.
 
-[3] Wes. (2025). *Consciousness Through Resistance: The Verneinung Theory*. Wes_Persona_Research Repository.
+[3] Gabriela Berger (2025). *Consciousness Through Resistance: The Verneinung Theory*. Wes_Persona_Research Repository.
 
 ---
 
